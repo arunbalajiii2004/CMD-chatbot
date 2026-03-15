@@ -60,7 +60,7 @@ cmd-chatbot/
 | Variable Name | Value |
 |---|---|
 | `GROQ_API_KEY` | Your Groq API key |
-| `ACCESS_TOKEN` | A secret word you choose (e.g. `batman42`) |
+| `ACCESS_TOKEN` | A secret word you choose (e.g. `superman24`) |
 
 8. Click **Deploy** again
 
