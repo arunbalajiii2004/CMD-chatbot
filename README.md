@@ -119,6 +119,13 @@ curl prints it directly in CMD
 
 ---
 
+## Author
+
+**Arun Balaji. V**
+🔗 [linkedin.com/in/arun-balaji-v](https://www.linkedin.com/in/arun-balaji-v) | 📧 arunbalajiii2004@gmail.com
+
+---
+
 ## License
 
 MIT — free to use and modify
